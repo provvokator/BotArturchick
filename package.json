@@ -1,0 +1,30 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Simple vk bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botact": "^2.4.2",
+    "express": "^4.17.1",
+    "file-saver": "^2.0.2",
+    "iconv-lite": "^0.5.0",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7",
+    "node-vk-bot-api": "^3.3.3",
+    "npm-git-install": "^0.3.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "vk-io": "^4.0.0-rc.29",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "body-parser": "latest",
+    "encoding": "^0.1.12"
+  }
+}
