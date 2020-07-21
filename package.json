@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "file-saver": "^2.0.2",
     "iconv-lite": "^0.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.7",
     "node-vk-bot-api": "^3.3.3",
